@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FichaOrdemParanormal", "FichaOrdemParanormal.csproj", "{111465C0-6AAF-46C2-9449-F3AAD61EDD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111465C0-6AAF-46C2-9449-F3AAD61EDD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111465C0-6AAF-46C2-9449-F3AAD61EDD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111465C0-6AAF-46C2-9449-F3AAD61EDD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111465C0-6AAF-46C2-9449-F3AAD61EDD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9050AF4E-A24F-4ECC-9F1B-76E2BF38AA6F}
+	EndGlobalSection
+EndGlobal
